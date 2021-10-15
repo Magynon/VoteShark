@@ -6,4 +6,3 @@ You know what they say, the end justifies the means...
 
 Now in all seriousness, this is a basic Python crawler that inputs data into a Google Form. The frontend is done using
 TKinter.
-# VoteShark
